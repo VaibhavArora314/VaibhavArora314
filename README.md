@@ -25,3 +25,5 @@
 | <a href="https://github.com/VaibhavArora314/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavArora314&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="vaibhav's github stats" /></a> | <a href="https://github.com/VaibhavArora314/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavArora314&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
  -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VaibhavArora314&theme=radical)](https://git.io/streak-stats)
