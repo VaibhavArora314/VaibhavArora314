@@ -27,3 +27,6 @@
  -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VaibhavArora314&theme=radical)](https://git.io/streak-stats)
+
+
+![Profile View Count](https://komarev.com/ghpvc/?username=VaibhavArora314)
