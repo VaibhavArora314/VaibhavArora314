@@ -18,15 +18,15 @@
 
 
 ## GitHub Analytics
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaibhavArora314&count_private=true&show_icons=true&theme=radical)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaibhavArora314&count_private=true&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VaibhavArora314&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavArora314&layout=compact&theme=tokyonight)](https://github.com/VaibhavArora314/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavArora314&layout=compact&theme=radical)](https://github.com/VaibhavArora314/github-readme-stats)
 <!--
 | <a href="https://github.com/VaibhavArora314/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavArora314&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="vaibhav's github stats" /></a> | <a href="https://github.com/VaibhavArora314/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavArora314&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
  -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VaibhavArora314&theme=radical)](https://git.io/streak-stats)
+ 
 
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=VaibhavArora314)
